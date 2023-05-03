@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VRB-Tech-Test/static/css/main.7acaea2f.css",
+    "main.js": "/VRB-Tech-Test/static/js/main.25ea3e9f.js",
+    "index.html": "/VRB-Tech-Test/index.html",
+    "main.7acaea2f.css.map": "/VRB-Tech-Test/static/css/main.7acaea2f.css.map",
+    "main.25ea3e9f.js.map": "/VRB-Tech-Test/static/js/main.25ea3e9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.25ea3e9f.js"
+  ]
+}
