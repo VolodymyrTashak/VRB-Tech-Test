@@ -40,9 +40,9 @@ export const NewsBox = () => {
           return <NewsItems data={item}  />;
         })}
       </NewsGalleryBox>
-      {data.length < 11 && <LoadMore onClickLoadMore={onClickLoadMore} />}
+      {data.length > 9 && <LoadMore onClickLoadMore={onClickLoadMore} />}
     </>
   );
 };
 
-// Як ключ я використав publishedAt , так як в деяких елементах id відсутній 
+
